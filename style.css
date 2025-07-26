@@ -1,0 +1,39 @@
+
+body {
+  margin: 0;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  background: radial-gradient(circle, #ffe9b0, #ffcc70);
+  color: #222;
+  text-align: center;
+}
+
+.hero {
+  padding: 100px 20px;
+}
+
+.logo {
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 60px;
+  margin: 0;
+}
+
+p {
+  font-size: 24px;
+  margin: 10px 0 30px;
+}
+
+.buttons .btn {
+  display: inline-block;
+  margin: 10px;
+  padding: 15px 30px;
+  background: #ff6b00;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+}
